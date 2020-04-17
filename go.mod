@@ -1,4 +1,4 @@
-module github.com/m-mizutani/urlscan-go
+module github.com/stephengroat/urlscan-go
 
 require (
 	github.com/k0kubun/colorstring v0.0.0-20150214042306-9440f1994b88 // indirect
